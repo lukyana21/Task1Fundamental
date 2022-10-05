@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Task1Fundamental</string>
+
+    <string name="name">Nama Users</string>
+    <string name="user_name">User Name</string>
+
+    <string-array name="data_name">
+        <item>Luky Ana Adi Pratama</item>
+        <item>Ridian Putra</item>
+        <item>Ferdi Farmadi</item>
+        <item>Fahrul Razi</item>
+        <item>Syahifa Nur</item>
+        <item>Anggoro Edo</item>
+        <item>Alex Iskandar</item>
+        <item>Pak Pius</item>
+        <item>Mas Yanes</item>
+        <item>Mas Lutvi</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>LuNa21</item>
+        <item>Ayung36</item>
+        <item>Apenk45</item>
+        <item>Kodok_Loncat321</item>
+        <item>Ifa_yuhuu21</item>
+        <item>SiEdo_Anak78</item>
+        <item>Alex_iskandar123</item>
+        <item>PiusAnggoro56</item>
+        <item>Yanes_MentorMagang31</item>
+        <item>LutviBoD452</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/satu</item>
+        <item>@drawable/dua</item>
+        <item>@drawable/tiga</item>
+        <item>@drawable/empat</item>
+        <item>@drawable/lima</item>
+        <item>@drawable/enam</item>
+        <item>@drawable/tuju</item>
+        <item>@drawable/delapan</item>
+        <item>@drawable/satu</item>
+        <item>@drawable/dua</item>
+    </integer-array>
+
+</resources>
